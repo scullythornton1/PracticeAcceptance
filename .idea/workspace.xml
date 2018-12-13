@@ -1,62 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b72e439-2260-4073-b463-331cb242916e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$60ec2ce2a1871ba6720a$.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$60ec2ce2a1871ba6720a.cache" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$60ec2ce2a1871ba6720a.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$23e969a8e7923807868f$.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$23e969a8e7923807868f.cache" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$23e969a8e7923807868f.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$5c17dce4e6900bf0e94a$.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$5c17dce4e6900bf0e94a.cache" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$5c17dce4e6900bf0e94a.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$652e2088e166020791b1$.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$652e2088e166020791b1.cache" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$652e2088e166020791b1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$9902922f509cdefcce3a$.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$9902922f509cdefcce3a.cache" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$9902922f509cdefcce3a.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b54e1e75836ba1553c8a$.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b54e1e75836ba1553c8a.cache" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b54e1e75836ba1553c8a.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ece41507772ecd8c6d11$.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ece41507772ecd8c6d11.cache" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ece41507772ecd8c6d11.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/first-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/first-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/first-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/first-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-first-build-compile-internal.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-first-build-compile-internal.xml" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-first-build-compile.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-first-build-compile.xml" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-first-build-optional.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-first-build-optional.xml" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-first-build-plugin.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-first-build-plugin.xml" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-first-build-pom.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-first-build-pom.xml" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-first-build-provided.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-first-build-provided.xml" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-first-build-runtime-internal.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-first-build-runtime-internal.xml" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-first-build-runtime.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-first-build-runtime.xml" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-first-build-scala-tool.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-first-build-scala-tool.xml" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-first-build-test-internal.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-first-build-test-internal.xml" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-first-build-test.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-first-build-test.xml" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/Individual/IR-SA.feature" afterPath="$PROJECT_DIR$/src/test/resources/features/01-Individual/01-IR-SA.feature" />
-      <change beforePath="$PROJECT_DIR$/src/test/scala/stepdefs/StepDefs.scala" afterPath="$PROJECT_DIR$/src/test/scala/stepdefs/StepDefs.scala" />
-      <change beforePath="$PROJECT_DIR$/target/cucumber.json" afterPath="$PROJECT_DIR$/target/cucumber.json" />
-      <change beforePath="$PROJECT_DIR$/target/cucumber/report.js" afterPath="$PROJECT_DIR$/target/cucumber/report.js" />
-      <change beforePath="$PROJECT_DIR$/target/streams/test/definedTests/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/test/definedTests/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/target/streams/test/test/$global/streams/succeeded_tests" afterPath="$PROJECT_DIR$/target/streams/test/test/$global/streams/succeeded_tests" />
-      <change beforePath="$PROJECT_DIR$/target/streams/test/testOnly/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/test/testOnly/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/target/streams/test/testOnly/isModule=false name=utils.TestRunner/test/out" afterPath="$PROJECT_DIR$/target/streams/test/testOnly/isModule=false name=utils.TestRunner/test/out" />
-      <change beforePath="$PROJECT_DIR$/target/test-reports/TEST-utils.TestRunner.xml" afterPath="$PROJECT_DIR$/target/test-reports/TEST-utils.TestRunner.xml" />
-      <change beforePath="$PROJECT_DIR$/target/test-reports/utils.TestRunner.xml" afterPath="$PROJECT_DIR$/target/test-reports/utils.TestRunner.xml" />
-    </list>
+    <list default="true" id="2b72e439-2260-4073-b463-331cb242916e" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
