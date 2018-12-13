@@ -73,4 +73,8 @@ class StepDefs extends ScalaDsl with EN with Env with Matchers with BasePage {
 
   }
 
+  Then("""^I shut the browser$""") {
+    quitBrowser()
+  }
+
 }

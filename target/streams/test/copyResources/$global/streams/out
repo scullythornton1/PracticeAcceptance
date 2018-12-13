@@ -1,7 +1,8 @@
 [0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
 [0m[[0m[0mdebug[0m] [0m[0m	(/home/ben/Applications/Ben/Testtest/First/src/test/resources/features,/home/ben/Applications/Ben/Testtest/First/target/scala-2.12/test-classes/features)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	(/home/ben/Applications/Ben/Testtest/First/src/test/resources/features/Org,/home/ben/Applications/Ben/Testtest/First/target/scala-2.12/test-classes/features/Org)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/ben/Applications/Ben/Testtest/First/src/test/resources/features/99-teardown.feature,/home/ben/Applications/Ben/Testtest/First/target/scala-2.12/test-classes/features/99-teardown.feature)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/ben/Applications/Ben/Testtest/First/src/test/resources/features/01-Individual,/home/ben/Applications/Ben/Testtest/First/target/scala-2.12/test-classes/features/01-Individual)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/ben/Applications/Ben/Testtest/First/src/test/resources/features/01-Individual/01-IR-SA.feature,/home/ben/Applications/Ben/Testtest/First/target/scala-2.12/test-classes/features/01-Individual/01-IR-SA.feature)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	(/home/ben/Applications/Ben/Testtest/First/src/test/resources/features/Agent,/home/ben/Applications/Ben/Testtest/First/target/scala-2.12/test-classes/features/Agent)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/home/ben/Applications/Ben/Testtest/First/src/test/resources/features/Individual,/home/ben/Applications/Ben/Testtest/First/target/scala-2.12/test-classes/features/Individual)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/home/ben/Applications/Ben/Testtest/First/src/test/resources/features/Individual/IR-SA.feature,/home/ben/Applications/Ben/Testtest/First/target/scala-2.12/test-classes/features/Individual/IR-SA.feature)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	(/home/ben/Applications/Ben/Testtest/First/src/test/resources/application.conf,/home/ben/Applications/Ben/Testtest/First/target/scala-2.12/test-classes/application.conf)[0m
