@@ -1,0 +1,48 @@
+[0m[[0m[0mdebug[0m] [0m[0m[34mTest run started[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest [33mIR-SA[0m.[36mUser is able to de-enrol from IR-SA[0m started[0m
+[0m[[0m[31merror[0m] [0m[0mTest [33mIR-SA[0m.[31mUser is able to de-enrol from IR-SA[0m failed: org.openqa.selenium.[31mNoSuchElementException[0m: no such element: Unable to locate element: {"method":"id","selector":"submit-continue"}[0m
+[0m[[0m[31merror[0m] [0m[0m  (Session info: chrome=69.0.3497.100)[0m
+[0m[[0m[31merror[0m] [0m[0m  (Driver info: chromedriver=2.44.609551 (5d576e9a44fe4c5b6a07e568f1ebc753f1214634),platform=Linux 4.15.0-42-generic x86_64) (WARNING: The server did not provide any stacktrace information)[0m
+[0m[[0m[31merror[0m] [0m[0mCommand duration or timeout: 0 milliseconds[0m
+[0m[[0m[31merror[0m] [0m[0mFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html[0m
+[0m[[0m[31merror[0m] [0m[0mBuild info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'[0m
+[0m[[0m[31merror[0m] [0m[0mSystem info: host: 'ben-XPS-15-9550', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.15.0-42-generic', java.version: '1.8.0_181'[0m
+[0m[[0m[31merror[0m] [0m[0mDriver info: org.openqa.selenium.chrome.ChromeDriver[0m
+[0m[[0m[31merror[0m] [0m[0mCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.44.609551 (5d576e9a44fe4c..., userDataDir: /tmp/.org.chromium.Chromium...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:43307}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 69.0.3497.100, webStorageEnabled: true}[0m
+[0m[[0m[31merror[0m] [0m[0mSession ID: 517346c27f19f1aef85dd6d2e1b8675e[0m
+[0m[[0m[31merror[0m] [0m[0m*** Element info: {Using=id, value=submit-continue}, took 3.006 sec[0m
+[0m[[0m[31merror[0m] [0m[0m    at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)[0m
+[0m[[0m[31merror[0m] [0m[0m    at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)[0m
+[0m[[0m[31merror[0m] [0m[0m    at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)[0m
+[0m[[0m[31merror[0m] [0m[0m    at java.lang.reflect.Constructor.newInstance(Constructor.java:423)[0m
+[0m[[0m[31merror[0m] [0m[0m    at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)[0m
+[0m[[0m[31merror[0m] [0m[0m    at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)[0m
+[0m[[0m[31merror[0m] [0m[0m    at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)[0m
+[0m[[0m[31merror[0m] [0m[0m    at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)[0m
+[0m[[0m[31merror[0m] [0m[0m    at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)[0m
+[0m[[0m[31merror[0m] [0m[0m    at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)[0m
+[0m[[0m[31merror[0m] [0m[0m    at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)[0m
+[0m[[0m[31merror[0m] [0m[0m    at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)[0m
+[0m[[0m[31merror[0m] [0m[0m    at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:322)[0m
+[0m[[0m[31merror[0m] [0m[0m    at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:368)[0m
+[0m[[0m[31merror[0m] [0m[0m    at org.openqa.selenium.By$ById.findElement(By.java:188)[0m
+[0m[[0m[31merror[0m] [0m[0m    at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:314)[0m
+[0m[[0m[31merror[0m] [0m[0m    at pages.BasePage.clickById(BasePage.scala:51)[0m
+[0m[[0m[31merror[0m] [0m[0m    at pages.BasePage.clickById$(BasePage.scala:51)[0m
+[0m[[0m[31merror[0m] [0m[0m    at stepdefs.StepDefs.clickById(StepDefs.scala:11)[0m
+[0m[[0m[31merror[0m] [0m[0m    at stepdefs.StepDefs.$anonfun$new$3(StepDefs.scala:38)[0m
+[0m[[0m[31merror[0m] [0m[0m    at cucumber.api.scala.ScalaDsl$StepBody$$anonfun$apply$2.applyOrElse(ScalaDsl.scala:100)[0m
+[0m[[0m[31merror[0m] [0m[0m    at cucumber.api.scala.ScalaDsl$StepBody$$anonfun$apply$2.applyOrElse(ScalaDsl.scala:98)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:38)[0m
+[0m[[0m[31merror[0m] [0m[0m    at cucumber.runtime.scala.ScalaStepDefinition.execute(ScalaStepDefinition.scala:70)[0m
+[0m[[0m[31merror[0m] [0m[0m    at cucumber.runtime.StepDefinitionMatch.runStep(StepDefinitionMatch.java:40)[0m
+[0m[[0m[31merror[0m] [0m[0m    at cucumber.api.TestStep.executeStep(TestStep.java:102)[0m
+[0m[[0m[31merror[0m] [0m[0m    at cucumber.api.TestStep.run(TestStep.java:83)[0m
+[0m[[0m[31merror[0m] [0m[0m    at cucumber.api.TestCase.run(TestCase.java:58)[0m
+[0m[[0m[31merror[0m] [0m[0m    at cucumber.runner.Runner.runPickle(Runner.java:80)[0m
+[0m[[0m[31merror[0m] [0m[0m    at cucumber.runtime.junit.PickleRunners$NoStepDescriptions.run(PickleRunners.java:140)[0m
+[0m[[0m[31merror[0m] [0m[0m    at cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:68)[0m
+[0m[[0m[31merror[0m] [0m[0m    at cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:23)[0m
+[0m[[0m[31merror[0m] [0m[0m    ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest [33mIR-SA[0m.[36mUser is able to de-enrol from IR-SA[0m finished, took 3.015 sec[0m
+[0m[[0m[0mdebug[0m] [0m[0m[34mTest run finished: [0m[31m1 failed[0m[34m, [0m[34m0 ignored[0m[34m, 1 total, 3.05s[0m[0m
