@@ -13,7 +13,7 @@ class StepDefs extends ScalaDsl with EN with Env with Matchers with BasePage {
   Given("""^I log in to request access to (.*)$""") { (enrolment: String) =>
     navigateTo(authWizardUri)
     findByName("authorityId").clear()
-    findByName("authorityId").sendKeys("ben-ryan-org")
+    findByName("authorityId").sendKeys("scully.thornton")
     findByName("redirectionUrl").clear()
     findByName("redirectionUrl").sendKeys(s"$enrolmentMgmtFeUri/$enrolment/request-access-tax-scheme?continue=%2FTest")
     selectFromDropdownByText("affinityGroup", "Organisation")
@@ -61,10 +61,11 @@ class StepDefs extends ScalaDsl with EN with Env with Matchers with BasePage {
   Given("""^I have an activated enrolment for (.*) and request a removal$""") { (enrolment: String) =>
     navigateTo(authWizardUri)
     findByName("authorityId").clear()
-    findByName("authorityId").sendKeys("ben-ryan-org")
+    findByName("authorityId").sendKeys("scully.thornton")
     findByName("redirectionUrl").clear()
     findByName("redirectionUrl").sendKeys(s"$enrolmentMgmtFeUri/$enrolment/remove-access-tax-scheme?continue=%2FTest")
     selectFromDropdownByText("affinityGroup", "Organisation")
+    findByName("email").clear()
     findByName("email").sendKeys("default@example.com")
     findByName("enrolment[0].name").sendKeys("IR-SA")
     sendKeysById("input-0-0-name", "UTR")

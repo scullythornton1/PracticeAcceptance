@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/first.iml" filepath="$PROJECT_DIR$/.idea/modules/first.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/first-build.iml" filepath="$PROJECT_DIR$/.idea/modules/first-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/First.iml" filepath="$PROJECT_DIR$/.idea/modules/First.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/practiceacceptance-build.iml" filepath="$PROJECT_DIR$/.idea/modules/practiceacceptance-build.iml" />
     </modules>
   </component>
 </project>

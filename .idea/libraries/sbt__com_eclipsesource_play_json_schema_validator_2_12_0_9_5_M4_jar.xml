@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="sbt: com.eclipsesource:play-json-schema-validator_2.12:0.9.5-M4:jar">
-    <CLASSES>
-      <root url="jar://$USER_HOME$/.ivy2/cache/com.eclipsesource/play-json-schema-validator_2.12/jars/play-json-schema-validator_2.12-0.9.5-M4.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

@@ -21,6 +21,6 @@ libraryDependencies ++= Seq(
   "com.fasterxml.jackson.module"   %% "jackson-module-scala"        % "2.9.7",
   "org.apache.commons"             % "commons-io"                   % "1.3.2",
   "org.mongodb.scala"              %% "mongo-scala-driver"          % "2.4.2",
-  "com.eclipsesource"              %% "play-json-schema-validator"  % "0.9.5-M4",
+//  "com.eclipsesource"              %% "play-json-schema-validator"  % "0.9.5-M4",
   "com.typesafe.play"              %% "play-json"                   % "2.6.10"
 )
